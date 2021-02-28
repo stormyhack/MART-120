@@ -1,0 +1,21 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: grey;
+  color: black;
+}
+
+#odd {
+  background-color: magenta;
+}
+
+#different {
+  font-family: tahoma;
+}
+
+.sky-picture {
+  background-image: url(./sky.jpg);
+}
